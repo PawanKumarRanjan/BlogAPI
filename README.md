@@ -1,2 +1,1 @@
-# BlogAPI
-Backend API for Blog Application
+# Advanced Backend Project
